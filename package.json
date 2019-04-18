@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-app7-file-read-write",
+  "version": "1.0.0",
+  "description": "NodeJS application demo for file read and write through route",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-App7-File-Read-Write"
+  },
+  "keywords": [
+    "nodejs",
+    "fs",
+    "file"
+  ],
+  "author": "rinkeshpatel22",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
